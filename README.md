@@ -1,6 +1,7 @@
 # Blinks - World Audio Library
 
 Blinks - World Audio Library is a project designed to display the information about famous artists and their tracks. Also you can create your own music album.
+Link to Deployed site:https://blinkswal-248e9455f924.herokuapp.com/
 
 # Features
 - Finding the most popular songs and artists
